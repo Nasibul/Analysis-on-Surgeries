@@ -1,5 +1,7 @@
 # Colonoscopy
-#The primary code is in solutions, which calls for the other scripts. The database is claims.db
+#The primary code is in solutions, which calls for the other scripts. 
+The database is claims.db located here:
+https://drive.google.com/file/d/1-HRWmdRpQQGE_CrmRo75GklAWVHFPKWx/view?usp=sharing
 
 Original instructions for the code are below:
 
